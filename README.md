@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=36&fontColor=ffffff)
+![banner](https://i.ibb.co.com/TQhR77r/sohid-7.jpg)
 
 <h1 align="center">Hi 👋, I'm Sohidul Islam</h1>
 <h3 align="center">Junior Frontend Developer (React | Next.js)</h3>
