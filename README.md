@@ -37,8 +37,8 @@ I am always eager to learn new technologies and grow as a developer.
 ## 🔗 Connect with Me
 | Platform | Link |
 | :---: | :---: |
-| **GitHub** | <a href="https://github.com/sohidul8305"><img src="https://skillicons.dev/icons?i=github" style="width: 30px; height: 30px;" /></a> |
-| **LinkedIn** | <a href="https://linkedin.com/in/yourname"><img src="https://skillicons.dev/icons?i=linkedin" style="width: 30px; height: 30px;" /></a> |
+| **GitHub** | <a href="https://github.com/sohidul8305/my-first-github-repo"><img src="https://skillicons.dev/icons?i=github" style="width: 30px; height: 30px;" /></a> |
+| **LinkedIn** | <a href="https://www.linkedin.com/feed/"><img src="https://skillicons.dev/icons?i=linkedin" style="width: 30px; height: 30px;" /></a> |
 
 **Note:** Please replace `yourname` in the LinkedIn link with your actual username.
 
