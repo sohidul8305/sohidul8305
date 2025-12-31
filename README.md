@@ -1,7 +1,7 @@
-// ![banner](https://i.ibb.co.com/TQhR77r/sohid-7.jpg)
+![banner](https://i.ibb.co/TQhR77r/sohid-7.jpg)
 
 <h1 align="center">Hi 👋, I'm Sohidul Islam</h1>
-<h3 align="center"> ✨ Frontend Developer (React | Next.js) ✨</h3>
+<h3 align="center">✨ Frontend Developer (React | Next.js) ✨</h3>
 
 ---
 
@@ -34,13 +34,23 @@ I am always eager to learn new technologies and grow as a developer.
 
 ---
 
+## 📌 Pinned Repositories
+
+Here are some of my highlighted projects:
+
+| Project | Description | Technologies | Live Demo |
+| ------- | ----------- | ------------ | --------- |
+| **Tourism Website** | A responsive tourism platform showcasing destinations and booking options. | React, Tailwind CSS, React Router | [Live Demo](https://tourism-demo.netlify.app) |
+| **Todo App** | Manage your tasks efficiently with add, edit, delete, and filter features. | React, Redux Toolkit, Tailwind CSS | [Live Demo](https://todo-demo.netlify.app) |
+| **Portfolio Website** | Personal portfolio to showcase projects and skills. | Next.js, Tailwind CSS | [Live Demo](https://sohid-portfolio.vercel.app) |
+
+---
+
 ## 🔗 Connect with Me
 | Platform | Link |
 | :---: | :---: |
-| **GitHub** | <a href="https://github.com/sohidul8305/my-first-github-repo"><img src="https://skillicons.dev/icons?i=github" style="width: 30px; height: 30px;" /></a> |
-| **LinkedIn** | <a href="https://www.linkedin.com/feed/"><img src="https://skillicons.dev/icons?i=linkedin" style="width: 30px; height: 30px;" /></a> |
-
-**Note:** Please replace `yourname` in the LinkedIn link with your actual username.
+| **GitHub** | <a href="https://github.com/sohidul8305"><img src="https://skillicons.dev/icons?i=github" style="width: 30px; height: 30px;" /></a> |
+| **LinkedIn** | <a href="https://www.linkedin.com/in/sohidul8305/"><img src="https://skillicons.dev/icons?i=linkedin" style="width: 30px; height: 30px;" /></a> |
 
 ---
 
